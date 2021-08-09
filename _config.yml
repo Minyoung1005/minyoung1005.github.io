@@ -138,6 +138,6 @@ menu:
     url:               /Programming/
     submenu:
       - title:           Linux
-        url:             /Linux/
+        url:             /linux/
       - title:           Python
-        url:             /Python/
+        url:             /python/
