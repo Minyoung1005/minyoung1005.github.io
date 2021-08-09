@@ -134,3 +134,10 @@ menu:
         url:             /Graph-Theory/
       - title:           Probability Theory and Examples
         url:             /Probability-Theory-and-Examples/
+  - title:             Programming
+    url:               /Programming/
+    submenu:
+      - title:           Linux
+        url:             /Linux/
+      - title:           Python
+        url:             /Python/
