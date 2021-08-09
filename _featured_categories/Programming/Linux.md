@@ -3,7 +3,7 @@ layout: list
 title: Linux
 slug: linux
 menu: true
-permalink: /linux/
+permalink: /Linux/
 order: 1
 sitemap: false
 description: >
