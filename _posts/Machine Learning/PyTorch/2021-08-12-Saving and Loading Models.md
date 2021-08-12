@@ -4,7 +4,7 @@ title: "Saving and Loading Models"
 categories: [PyTorch]
 ---
 
-'''
+```
 import torch
 
 # Initialize model and optimizer
@@ -33,10 +33,10 @@ model.eval()
 or
 model.train()
 
-'''
+```
 
-'''
+```
 # Save model weights and informations as checkpoint
 
 torch.save(model.state_dict(), 'PATH')
-'''
+```
