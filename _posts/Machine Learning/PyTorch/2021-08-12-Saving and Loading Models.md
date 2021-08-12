@@ -38,5 +38,16 @@ model.train()
 ```
 # Save model weights and informations as checkpoint
 
-torch.save(model.state_dict(), 'PATH')
+torch.save({
+            'model': model.state_dict()},
+            'optimizer': optimizer.state_dict(),
+            'epoch': epoch,
+            'loss': loss,
+            'args': args,
+            ...
+            },'PATH')
 ```
+
+### When do we need to load optimizer?
+
+
