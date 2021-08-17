@@ -5,10 +5,10 @@ categories: [Reinforcement Learning]
 ---
 # Q-learning 정리
 
-# Value-based vs Actor-Critic
+## Value-based vs Actor-Critic
 
-# REDQ (Randomized Ensembled Double Q-learning)
+## REDQ (Randomized Ensembled Double Q-learning)
 
-# What is double Q-learning?
+## What is double Q-learning?
 
-# SAC (Soft Actor-Critic)
+## SAC (Soft Actor-Critic)
