@@ -142,7 +142,9 @@ menu:
       - title:           Python
         url:             /python/
   - title:             Machine Learning
-    url:               /Machine-Learning/
+    url:               /machine-learning/
     submenu:
       - title:           PyTorch
-        url:             /PyTorch/
+        url:             /pytorch/
+      - title:           Reinforcement Learning
+        url:             /reinforcement-learning/
